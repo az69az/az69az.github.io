@@ -1,6 +1,7 @@
 # ArtZab | 🔗File Database
 - [GitHub](https://github.com/az69az/az69az.github.io)
 - [Main account](https://github.com/artzab1103)
+**Also see [Android Malware Database](https://github.com/artzab1103/AndroidVirusDatabase)!**
 
 ## Sites
 - [GloryLand Archive](https://az69az.github.io/public_html/others/GloryLand)
