@@ -1,5 +1,5 @@
-# ArtZab | 🔗File Digger
-My file digger😎
+# ArtZab | 🔗File Database
+Omagaaad
 
 ## Sites
 - [GloryLand Archive](https://az69az.github.io/public_html/others/GloryLand)
