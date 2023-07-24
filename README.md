@@ -1,5 +1,6 @@
 # ArtZab | 🔗File Database
-Omagaaad
+- [GitHub](https://github.com/az69az/az69az.github.io)
+- [Main account](https://github.com/artzab1103)
 
 ## Sites
 - [GloryLand Archive](https://az69az.github.io/public_html/others/GloryLand)
