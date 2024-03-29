@@ -66,3 +66,7 @@ footer {
     text-align: center;
     padding: 30px;
 }
+
+img {
+    border-radius: 20px;
+}
