@@ -1,0 +1,63 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 20px 20px 20px 20px;
+    font-family: Arial, sans-serif;
+    background-color: #181818;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    color: #fff;
+}
+
+header {
+    border-radius: 25px;
+    background: #818181;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    float: center;
+}
+
+#hero {
+    background: url('hero.jpg') center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#hero h2 {
+    margin-bottom: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background: #818181;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+footer {
+    border-radius: 25px;
+    background: #818181;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+img {
+    border-radius: 10px;
+}
